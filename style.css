@@ -1,0 +1,11 @@
+li {
+    background-color: red;
+}
+
+.grilled {
+    background-color: green;
+}
+ 
+a:hover {
+    background-color: blue;
+}
